@@ -7,10 +7,6 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-//Constructor created
-//Variables private -> protected
-//IP Address can be defaulted to 0.0.0.0 & MAC Address can be defaulted to 00-00-00-00-00-00 - Set default in DD or implementation?
-
 public abstract class Device {
 
    private String deviceName;
