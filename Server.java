@@ -5,17 +5,14 @@
 * @author Andrew Dao and Palistha Karmacharya
 */
 
-import java.util.Hashtable;
+//import java.util.Hashtable;
 
-//disclude default constructors
-//Constructor - super keyword
-//Constructor without serverType?
 
 public class Server extends Device {
 
    private String serverType;
    private enum serverTypes {EMAIL, FILESTORAGE, WEB};
-   private Hashtable<String, String> ht = new Hashtable<String, String>();
+   //private Hashtable<String, String> ht = new Hashtable<String, String>();
 
  /**
  * Default constructor
