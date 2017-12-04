@@ -1,6 +1,6 @@
  /**
-* This Switch class is a subclass to superclass Device. The virtual switch object is a subclass
-* of the switch class. In a networking role, these specific types of switches allow users
+* The Virtual Switch object is a subclass of the switch class. 
+* In a networking role, these specific types of switches allow users
 * to connect other networking components together. This object contains a name and a MAC address
 * which is inherited from its parent switch.
 * @author Andrew Dao and Palistha Karmacharya
